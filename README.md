@@ -36,11 +36,11 @@ An app that can dynamically create a readme with proper markdown.
 ## Installation: 
 **heroku link**
 ## Usage: 
-The use of this app is to make it simpler to create a professional readme markdown for your repositories
+This app allows users to sign up and sign into a webpage that sends them to a home page to view cards to restaurants that he/she have made. There is a create review button that sends them to a new page with places you can enter information about a restaurant you have been to and want to review! Price, occasion, rating, description, etc. After submitting this it takes you back to the homepage with your card with all the information you posted inside. There is also a search button that (if its in the database) you can search by name of people and view the cards they have made on restaurants as well so you can see what restaurants your friends have been to and see what their thoughts are on it! Lastly you can also filter out the cards you see by their rating, price, occasion, location and such to view specific needs you want for restaurants you are in the mood for!
 ## Contributing: 
 Ian Nater, Kerem Karaman, and Zach Yanez
 ## Feedback: 
-
+Obviously there are bugs! This is only our 2nd project and there are definitely some things that need to be added and fixed. Feel free to leave an email on fixes you see fit!
 ## License: 
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=success)
 
