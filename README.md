@@ -11,12 +11,6 @@ As a food lover, I want to be able to rank and comment on places I eat, so that 
 4. When they save the entry it will get loaded into our database so that they can reference it later.
 ![App Flow Screenshot](./assets/appflow.png)
 
-#### Must Have
-1. Ability to login
-2. Ability to load all past entries and sort/filter them
-3. Ability to create an entry including uploading a picture.
-4. Ability to see "friends" 
-
 ### Nice to Haves
 1. Ability to book a reservation with open table.
 2. Ability to comment on friends reviews.
@@ -28,3 +22,29 @@ As a food lover, I want to be able to rank and comment on places I eat, so that 
 3. User complete form and submits, that data is then stored in our db.
 4. User can then click on a tab that takes them to a page that shows all current reviews
 5. User can filter on the page to see all reviews or just theirs. They can also filter other things to narrow their preferences.
+
+## Description: 
+An app that can dynamically create a readme with proper markdown.
+##Table of contents:
+### 1.[Installation](#installation)
+### 2.[Usage](#usage)
+### 3.[Contributing](#contributing)
+### 4.[Feedback](#feedback)
+### 5.[License](#license)
+### 6.[Github Username](#githubusername)
+### 7.[Email link](#emaillink)
+## Installation: 
+**heroku link**
+## Usage: 
+The use of this app is to make it simpler to create a professional readme markdown for your repositories
+## Contributing: 
+Ian Nater, Kerem Karaman, and Zach Yanez
+## Feedback: 
+
+## License: 
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=success)
+
+## Github username: 
+nathan-schmitzer
+## For any questions send an email to: 
+nathan.schmitzer@yahoo.com
